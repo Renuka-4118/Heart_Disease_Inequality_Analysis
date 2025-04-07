@@ -71,6 +71,13 @@ Heart Disease rate by access to care- Plots/Access to care factors.png
 
 High risk individuals based on Diet vs access to care- Plots/Summarized plots/Risk_AccessToCare_HeartDisease.png
 
+## 🔗 Interactive Visualizations
+
+- [Access vs Heart Disease](https://renuka-4118.github.io/Heart_Disease_Inequality_Analysis/Heart_Disease_Access_Heatmap.html)
+- [Diet Patterns Heatmap](https://renuka-4118.github.io/Heart_Disease_Inequality_Analysis/Heart_Disease_Diet_Heatmap.html)
+- [Lifestyle Risk Heatmap](https://renuka-4118.github.io/Heart_Disease_Inequality_Analysis/Heart_Disease_Lifestyle_Heatmap.html)
+- [Socioeconomic Factors Heatmap](https://renuka-4118.github.io/Heart_Disease_Inequality_Analysis/Heart_Disease_Socioeconomic_Heatmap.html)
+
 
 **💡 Future Work:**
 
