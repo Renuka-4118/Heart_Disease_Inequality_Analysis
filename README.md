@@ -48,6 +48,11 @@ Heart_Disease_Inequality_Analysis/
 
 **🧰 Analyst Perspective:** The focus was not only on results but on how an analyst approaches problem-solving — from asking the right questions to cleaning, merging, and interpreting multidimensional data.
 
+**🖼️ Sample Visualizations:**
+
+Heart Disease raet by access to care- Plots/Access to care factors.png
+High risk individuals based on Diet vs access to care- Plots/Summarized plots/Risk_AccessToCare_HeartDisease.png
+
 **💡 Future Work:**
 
 - Add logistic regression for predictive modeling.
