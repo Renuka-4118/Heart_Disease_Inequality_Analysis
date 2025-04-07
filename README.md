@@ -67,8 +67,6 @@ Heart_Disease_Inequality_Analysis/
 
 **🖼️ Sample Visualizations:**
 
-Heart Disease rate by access to care- ![Access to Care Factors](Plots/Access%20to%20care%20factors.png)
-
 High risk individuals based on Diet vs access to care- ![Risk Access to Care Summary](Plots/Summarized%20plots/Risk_AccessToCare_HeartDisease.png)
 
 ## 🔗 Interactive Visualizations
